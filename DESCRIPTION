@@ -1,0 +1,11 @@
+Package: Week4
+Type: Package
+Title: Package contains the FARS data and functions
+Version: 0.1.0
+Author: Rick Lunkenheimer
+Maintainer: Rick Lunkenheimer <rick.lunkenheimer@gmail.com>
+Description: The purpose of this assessment is for you to combine your skills of creating, writing, documenting, and testing an R package with releasing that package on GitHub. In this assessment you'll be taking the R files from Week 2's assessment about documentation and putting that file in an R package. 
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
